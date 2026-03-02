@@ -1,2 +1,17 @@
+# Entorno virtual
 env/
 .env
+
+# Resultados de entrenamiento (pesan GBs, no se suben)
+results_rpg_history/
+results_config_B/
+checkpoint-*/
+logs/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Gráficas generadas (estas SÍ podrías subirlas si quieres que se vean en el README, 
+# o mejor, muévelas a una carpeta llamada 'img/')
+# comparativa_final.png
