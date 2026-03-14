@@ -6,3 +6,5 @@ pydantic==2.10.6
 evaluate==0.4.3
 scikit-learn==1.6.1
 matplotlib==3.10.0
+numpy
+pandas
