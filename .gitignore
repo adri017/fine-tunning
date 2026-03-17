@@ -2,7 +2,6 @@
 env/
 .env
 resultados/
-graficas/
 checkpoint-*/
 logs/
 
